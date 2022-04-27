@@ -10,6 +10,7 @@ All models should include:
 ## Models currently uploaded
 
 * [Funk-SVD model for recommender systems](funk_svd/)
+* [Decision Tree with built-in support for categorical variables](decision_tree/)
 
 
 ## Disclaimer
